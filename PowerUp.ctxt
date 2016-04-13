@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PowerUp()
+comment0.text=\n\ Constructs\ a\ random\ PowerUp\n
+comment1.params=x\ y
+comment1.target=void\ setLoc(int,\ int)
+comment1.text=\n\ Sets\ the\ location\ of\ the\ powerUp\n\ @param\ int\ x\n\ @param\ int\ y\n
+comment2.params=
+comment2.target=java.awt.Rectangle\ getPowerUp()
+comment2.text=\n\ Returns\ the\ powerUp\n\ @return\ Rectangle\ powerUp\n
+comment3.params=
+comment3.target=java.awt.Image\ getImage()
+comment3.text=\n\ Returns\ the\ Image\n\ @return\ Image\n
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics)
+comment4.text=\n\ Draw\ the\ image\n\ @param\ Graphics\ g\n
+comment5.params=
+comment5.target=void\ fall()
+comment5.text=\n\ Makes\ the\ powerUp\ fall\n
+comment6.params=
+comment6.target=java.lang.String\ getType()
+comment6.text=\n\ Returns\ the\ type\ of\ powerUp\n\ @return\ String\ type\n
+numComments=7

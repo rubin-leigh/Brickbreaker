@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MetalBrick()
+comment0.text=\n\ Constructs\ a\ MetalBrick\n
+comment1.params=
+comment1.target=void\ updateBrick()
+comment2.params=
+comment2.target=java.awt.Image\ getImage()
+comment3.params=
+comment3.target=double\ getHits()
+comment4.params=
+comment4.target=void\ updateLaser()
+comment5.params=
+comment5.target=void\ updateBullet()
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=path
+comment0.target=java.awt.image.BufferedImage\ loadCompatibleImage(java.lang.String)
+comment0.text=\n\ Loads\ an\ image\ that\ is\ ready\ for\ rendering\n\ @param\ String\ path\n\ @return\ BufferedImage\n
+comment1.params=path
+comment1.target=java.awt.image.BufferedImage\ loadImage(java.lang.String)
+comment1.text=\n\ Loads\ raw\ image\ data\ for\ manipulation\ before\ rendering\n\ @param\ String\ path\n\ @return\ BufferedImage\n
+comment2.params=img
+comment2.target=java.awt.image.BufferedImage\ getCompatibleImage(java.awt.Image)
+comment2.text=\n\ Creates\ a\ version\ of\ the\ image\ that\ is\ ready\ for\ rendering\n\ @param\ Image\ img\n\ @return\ BufferedImage\n
+numComments=3

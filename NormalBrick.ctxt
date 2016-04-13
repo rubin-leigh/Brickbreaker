@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=h\ hP
+comment0.target=NormalBrick(double,\ boolean)
+comment0.text=\n\ Constructs\ a\ NormalBrick\ with\ hits\ and\ a\ powerUp\n\ @param\ double\ hits\n\ @param\ boolean\ hasPowerUp\n
+comment1.params=
+comment1.target=double\ getHits()
+comment2.params=
+comment2.target=PowerUp\ getPowerUp()
+comment2.text=\n\ Releases\ powerUp\ \n
+comment3.params=has
+comment3.target=void\ setPowerUp(boolean)
+comment3.text=\n\ Sets\ if\ the\ brick\ has\ a\ powerUp\n\ @param\ boolean\ hasPowerUp\n
+comment4.params=
+comment4.target=java.awt.Image\ getImage()
+comment5.params=
+comment5.target=void\ updateBrick()
+comment6.params=
+comment6.target=void\ updateLaser()
+comment7.params=
+comment7.target=void\ updateBullet()
+numComments=8

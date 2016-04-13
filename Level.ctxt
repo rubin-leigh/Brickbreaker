@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=loc\ x\ y
+comment0.target=void\ setLoc(int,\ int,\ int)
+comment0.text=\n\ Set\ location\ of\ the\ Bricks\n\ @param\ int\ loc\n\ @param\ int\ x\n\ @param\ int\ y\n
+comment1.params=
+comment1.target=void\ placeBricks()
+comment1.text=\n\ Places\ the\ Bricks\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getBricks()
+comment2.text=\n\ Returns\ the\ bricks\ in\ the\ level\n\ @return\ ArrayList<Brick>\ bricks\n
+numComments=3

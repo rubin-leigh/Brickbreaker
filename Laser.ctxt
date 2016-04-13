@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Laser(int)
+comment0.text=\n\ Constructs\ a\ laser\ with\ a\ speed\n\ @param\ int\ speed\n
+comment1.params=
+comment1.target=java.awt.Image\ getImage()
+comment1.text=\n\ Return\ the\ Image\n\ @return\ Image\n
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment2.text=\n\ Draw\ the\ image\n\ @param\ Graphics\ g\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\n\ Moves\ the\ laser\n
+comment4.params=
+comment4.target=java.awt.Rectangle\ getLaser()
+comment4.text=\n\ Returns\ the\ laser\n\ @return\ Rectangle\ laser\n
+numComments=5

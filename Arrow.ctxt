@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Arrow()
+comment0.text=\n\ Creates\ a\ new\ Arrow\ with\ an\ angle\ and\ speed\n
+comment1.params=
+comment1.target=void\ left()
+comment1.text=\n\ Moves\ the\ arrow\ left\n
+comment2.params=
+comment2.target=void\ right()
+comment2.text=\n\ Moves\ the\ arrow\ right\n
+comment3.params=
+comment3.target=java.awt.Rectangle\ getArrow()
+comment3.text=\n\ Returns\ the\ arrow\n\ @return\ Rectangle\ arrow\n
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics)
+comment4.text=\n\ Draw\ the\ image\n\ @param\ Graphics\ g\n
+comment5.params=
+comment5.target=java.awt.Image\ getImage()
+comment5.text=\n\ Returns\ the\ Image\n\ @return\ Image\n
+numComments=6
