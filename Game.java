@@ -51,7 +51,7 @@ public class Game extends JPanel implements ActionListener, KeyListener
     /**
      * Main method used to run the program
      */
-    public static void main() {
+    public static void main(String[] args) {
         JFrame frame = new JFrame();
         frame.setLayout(new BorderLayout());
 
